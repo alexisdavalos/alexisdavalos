@@ -50,6 +50,14 @@
 ![](https://img.shields.io/badge/code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/code-GraphQL-informational?style=for-the-badge&logo=GraphQL&logoColor=white&color=E10098)
 
+### Operating Systems:
+![](https://img.shields.io/badge/os-Windows-informational?style=for-the-badge&logo=Windows&logoColor=white&color=0078D6)
+![](https://img.shields.io/badge/os-macOS-informational?style=for-the-badge&logo=Apple&logoColor=white&color=999999)
+
+### Code Editors:
+![](https://img.shields.io/badge/IED-VisualStudioCode-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/IED-Vim-informational?style=for-the-badge&logo=Vim&logoColor=white&color=019733)
+
 #
 
 ![Alexis' github stats](https://github-readme-stats.vercel.app/api?username=alexisdavalos&include_all_commits=true&show_icons=true&theme=dracula)
