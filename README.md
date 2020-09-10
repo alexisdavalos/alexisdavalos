@@ -47,7 +47,7 @@
 ![](https://img.shields.io/badge/code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/code-GraphQL-informational?style=for-the-badge&logo=GraphQL&logoColor=white&color=E10098)
 
----
+#
 
 ![Alexis' github stats](https://github-readme-stats.vercel.app/api?username=alexisdavalos&include_all_commits=true&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexisdavalos&layout=compact&theme=dracula&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
