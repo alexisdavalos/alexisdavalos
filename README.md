@@ -1,5 +1,5 @@
 <a href="https://www.alexisdavalos.dev/" target="_blank">
-<img src="https://github.com/alexisdavalos/alexisdavalos/blob/master/assetts/original_banner.gif/" alt="alexis davalos profile banner" />
+<img src="https://github.com/alexisdavalos/alexisdavalos/blob/master/assetts/old_banner.gif/" alt="alexis davalos profile banner" />
 </a>
 
 
