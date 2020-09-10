@@ -25,9 +25,9 @@
 - 🌱 I’m currently learning to better myself through daily practice and discipline
 - 🏋 I’m extremely passionate about health, fitness, philosophy and language
 - 📚 I’m currently reading "The Secret Teachings of All Ages" by Manly P. Hall
-- 💬 Ask me about about design, crypto, surfing, skiing, skating, philosophy
+- 💬 Ask me about about design, crypto, surfing, skiing, skating, and philosophy
 - ⭐️ Fun fact: I speak three languages: [ 🇺🇸 English | 🇪🇸 Spanish | 🇷🇺 Russian ]
-- 💼 Check out my <a href="www.alexisdavalos.dev" target="_blank">portfolio</a>, built with React.js
+- 💼 Check out my <a href="https://www.alexisdavalos.dev" target="_blank">portfolio</a>, built with React.js
 
 #
 
