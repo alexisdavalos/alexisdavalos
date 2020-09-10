@@ -21,8 +21,8 @@
 
 <p text-align="left">I'm a <b>Fullstack Engineer</b> with a passion for constantly learning and pushing the boundaries of my comfort zone. I have <b>2+ years of experience in Front-End Development</b> working on design, deployment, and maintenance of web-based projects and <b>3+ years of experience in Graphic Design and Marketing</b>. I am comfortable using design tools like <b>Photoshop, Illustrator, After Effects, and Premiere.</b></p>
 
-- 🔭 I’m currently working on my finding a new software engineering role
-- 🌱 I’m currently learning to better myself through daily practice 
+- 🔭 I’m currently working on my finding a new software engineering role and learning german 🇩🇪
+- 🌱 I’m currently learning to better myself through daily practice and discipline
 - 🏋 I’m extremely passionate about health, fitness, philosophy and language
 - 📚 I’m currently reading "The Secret Teachings of All Ages" by Manly P. Hall
 - 💬 Ask me about about design, crypto, surfing, skiing, skating, philosophy
@@ -53,17 +53,3 @@
 ![Alexis' github stats](https://github-readme-stats.vercel.app/api?username=alexisdavalos&include_all_commits=true&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexisdavalos&layout=compact&theme=dracula&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**alexisdavalos/alexisdavalos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
