@@ -1,5 +1,5 @@
 <a href="https://www.alexisdavalos.dev/" target="_blank">
-<img src="https://github.com/alexisdavalos/alexisdavalos/blob/master/assetts/original_banner.gif/" alt="alexis davalos profile banner" />
+<img src="https://github.com/alexisdavalos/alexisdavalos/blob/master/assetts/old_banner.gif/" alt="alexis davalos profile banner" />
 </a>
 
 
@@ -24,11 +24,12 @@
 
 - 🔭 I’m currently looking for a new software engineering role and learning German 🇩🇪
 - 🌱 I’m currently learning to better myself through daily practice and discipline
-- 🏋 I’m extremely passionate about health, fitness, philosophy and language
+- 🏋 I’m extremely passionate about technology, fitness, philosophy and language
 - 📚 I’m currently reading "The Secret Teachings of All Ages" by Manly P. Hall
 - 💬 Ask me about design, crypto, surfing, skiing, skating, and philosophy
 - ⭐️ Fun fact: I speak three languages: [ 🇺🇸 English | 🇪🇸 Spanish | 🇷🇺 Russian ]
-- 💼 Check out my <a href="https://www.alexisdavalos.dev" target="_blank">portfolio</a>, built with React.js
+- 💼 Check out my <a href="https://www.alexisdavalos.dev" target="_blank">portfolio</a>, built with React.js or download my <a href="https://www.alexisdavalos.dev/static/media/Alexis_Davalos_Resume.5dfe0da1.pdf" target="_blank">resume</a>
+
 
 #
 
@@ -48,6 +49,14 @@
 ![](https://img.shields.io/badge/code-Knex-informational?style=for-the-badge&logo=Knex.js&logoColor=white&color=6a3d7c)
 ![](https://img.shields.io/badge/code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/code-GraphQL-informational?style=for-the-badge&logo=GraphQL&logoColor=white&color=E10098)
+
+### Operating Systems:
+![](https://img.shields.io/badge/os-Windows-informational?style=for-the-badge&logo=Windows&logoColor=white&color=0078D6)
+![](https://img.shields.io/badge/os-macOS-informational?style=for-the-badge&logo=Apple&logoColor=white&color=999999)
+
+### Favorite Integrated Development Environments:
+![](https://img.shields.io/badge/IDE-VisualStudioCode-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/IDE-Vim-informational?style=for-the-badge&logo=Vim&logoColor=white&color=019733)
 
 #
 
