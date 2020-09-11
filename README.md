@@ -24,7 +24,7 @@
 
 - 🔭 I’m currently looking for a new software engineering role and learning German 🇩🇪
 - 🌱 I’m currently learning to better myself through daily practice and discipline
-- 🏋 I’m extremely passionate about health, fitness, philosophy and language
+- 🏋 I’m extremely passionate about technology, fitness, philosophy and language
 - 📚 I’m currently reading "The Secret Teachings of All Ages" by Manly P. Hall
 - 💬 Ask me about design, crypto, surfing, skiing, skating, and philosophy
 - ⭐️ Fun fact: I speak three languages: [ 🇺🇸 English | 🇪🇸 Spanish | 🇷🇺 Russian ]
