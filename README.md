@@ -20,9 +20,9 @@
 ##
 
 
-<p text-align="left">I'm a <b>Fullstack Engineer</b> with a passion for constantly learning and pushing the boundaries of my comfort zone. I have <b>2+ years of experience in Front-End Development</b> working on design, deployment, and maintenance of web-based projects and <b>3+ years of experience in Graphic Design and Marketing</b>. I am very comfortable using design tools like <b>Photoshop, Illustrator, After Effects, and Premiere.</b></p>
+<p text-align="left">I'm a <b>Software Engineer</b> with a passion for constantly learning and pushing the boundaries of my comfort zone. I have <b>2+ years of experience in Front-End Development</b> working on design, deployment, and maintenance of web-based projects and <b>3+ years of experience in Graphic Design and Marketing</b>. I am very comfortable using design tools like <b>Photoshop, Illustrator, After Effects, and Premiere.</b></p>
 
-- 🔭 I’m currently looking for a new software engineering role and learning German 🇩🇪
+- 🔭 I’m currently learning German 🇩🇪
 - 🌱 I’m currently learning to better myself through daily practice and discipline
 - 🏋 I’m extremely passionate about technology, fitness, philosophy and language
 - 📚 I’m currently reading "The Secret Teachings of All Ages" by Manly P. Hall
