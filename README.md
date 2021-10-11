@@ -8,8 +8,6 @@
 <h3 align="center">⚡️ How To Contact Me ⚡️</h3>
 <p align="center">
   [
-  <a href="https://www.twitter.com/thestoicdev/" target="_blank">Twitter</a>
-  |
   <a href="https://linkedin.com/in/alexisdavalos" target="_blank">LinkedIn</a>
   |
   <a href="mailto:alexisdavalos.dev@gmail.com" target="_blank">Email</a>
