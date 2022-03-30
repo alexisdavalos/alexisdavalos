@@ -18,7 +18,7 @@
 ##
 
 
-<p text-align="left">I'm a <b>Software Engineer</b> with a passion for constantly learning and pushing the boundaries of my comfort zone. I have <b>3+ years of experience in Front-End Development</b> working on design, deployment, and maintenance of web-based projects and <b>3+ years of experience in Graphic Design and Marketing</b>. I am very comfortable using design tools like <b>Photoshop, Illustrator, After Effects, and Premiere.</b></p>
+<p text-align="left">I'm an avid software engineer with a passion for constantly learning. I have 3+ years of experience developing and working on design, deployment, and maintenance of web-based projects using frameworks like React.js, Vue.js, Nuxt.js, and Next.js. I love finding creative and elegant solutions to cool problems! I also have over 3+ years of experience in Graphic Design and Marketing, using Photoshop, Illustrator, After Effects, and Premiere, to create and market web content, print/label designs, t-shirt designs, and video content with Facebook & Google ads.</p>
 
 - 🔭 I’m currently learning German 🇩🇪
 - 🌱 I’m currently learning to better myself through daily practice and discipline
