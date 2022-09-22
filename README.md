@@ -20,11 +20,9 @@
 
 <p text-align="left">I'm an avid software engineer with a passion for constantly learning. I have 3+ years of experience developing and working on design, deployment, and maintenance of web-based projects using frameworks like React.js, Vue.js, Nuxt.js, and Next.js. I love finding creative and elegant solutions to cool problems! I also have over 3+ years of experience in Graphic Design and Marketing, using Photoshop, Illustrator, After Effects, and Premiere, to create and market web content, print/label designs, t-shirt designs, and video content with Facebook & Google ads.</p>
 
-- 🔭 I’m currently learning German 🇩🇪
 - 🌱 I’m currently learning to better myself through daily practice and discipline
 - 🏋 I’m extremely passionate about technology, fitness, philosophy and language
 - 📚 I’m currently reading "The Secret Teachings of All Ages" by Manly P. Hall
-- 💬 Ask me about design, crypto, surfing, skiing, skating, and philosophy
 - ⭐️ Fun fact: I speak three languages: [ 🇺🇸 English | 🇪🇸 Spanish | 🇷🇺 Russian ]
 - 💼 Check out my <a href="https://www.alexisdavalos.dev" target="_blank">portfolio</a>, built with React.js, download my <a href="https://www.alexisdavalos.dev/static/media/Alexis_Davalos_Resume.5dfe0da1.pdf" target="_blank">resume</a> or check out my <a href="https://blog.alexisdavalos.dev" target="_blank">blog</a>
 
